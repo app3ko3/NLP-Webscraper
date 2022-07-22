@@ -1,0 +1,78 @@
+https://toposens.com/2022/05/27/meet-us-at-logimat-2022
+ We use cookies to optimize our website and service.
+Accept
+Functional Cookies Only
+Preferences
+Cookie Guideline
+Privacy Policy
+Privacy Policy
+Products
+Technology
+Applications
+Company
+Downloads
+CONTACT US
+May 27, 2022
+MEET US AT LOGIMAT 2022
+Written by
+Munich-based high-tech startup Toposens is thrilled to be part of the LogiMAT 2022 exhibitor line-up, introducing its brand-new 3D Ultrasonic Collision Avoidance Sensor ECHO ONE to the industry and showcasing its best-in-class 3D detection capabilities in live demonstrations – come and see for yourself!
+    Munich, 27/05/2022. Finally, we can all meet face-to-face again, an invaluable opportunity to exchange industry knowledge and build on new and existing relationships!
+After a Corona-induced two-year-break, LogiMAT will be taking place again this year and open its doors to suppliers and customers of intralogistics products and systems for intralogistics processes. LogiMAT has over the years turned into the world’s most important international trade fair for intralogistics solutions and process management.
+Even more reason for us to be exhibiting alongside well-known manufacturers of mobile robot equipment, such as Jungheinrich, Leuze, Agilox and Continental, to name but a few.
+As making mobile robots even safer is at the heart of our efforts here at Toposens, we are delighted to be part of LogiMAT 2022, where we will be showcasing our 3D Collision Avoidance Sensor “ECHO ONE” for next-level robotic safety. And since seeing is believing, why don’t you come and see for yourself how our sensor technology can help you build the safest mobile robots!
+We look forward to welcoming you to our stand in Hall 2, EF65.
+Toposens at LogiMAT 2022
+Re-defining robotic safety
+
+Over the past few years, we have been incredibly busy working toward a commercial version of our sensor technology to serve the need for a reliable mobile robot collision avoidance technology.
+With blocked vision being the leading cause of industrial accidents in 2020, there is a significant necessity for mobile robots to “see” their environment using a different kind of vision technology – we call it “BAT VISION“.
+Using the bionic principle of echolocation as seen in bats, our 3D ultrasonic echolocation sensor technology enables you to build even safer mobile robots, being able to detect multiple difficult-to-detect objects, such as forklift forks, reliably and in real-time regardless of environmental conditions. Thus, our technology addresses the shortcomings of optical sensors, such as LiDARs, which can fail to deliver due to unfavourable lighting conditions or object surfaces.
+A key pain point in today’s mobile robot industry is clear: With 3D collision avoidance capabilities missing in existing sensor solutions, undetected damages arising as a consequence can easily amount to anything up to one million Euro per year due to repair cost, damaged goods or even expensive production stops, considerably limiting the ROI of your mobile robot system.
+Thus, we are thrilled to soon be taking orders for our first commercial version of our 3D ultrasonic sensing technology with the all-new Ultrasonic Echolocation Sensor for 3D Collision Avoidance: ECHO ONE.
+→ If you want to find out more about the ECHO ONE and its unique capabilities, then do not hesitate to contact us.
+  LIVE DEMO: Why not see our technology in action and convince yourself of the performance by experiencing a live demonstration?
+We welcome you to visit us at LogiMAT, Hall 2 EF65.
+And because it is our pleasure to meet you: Grab your free ticket here!
+(Just enter “LogiMAT” in the optional “Message” box of the contact form.)
+  For any inquiries, visit the company website on https://toposens.com/ or send an Email via info@toposens.com.
+  ______________________________
+About Toposens
+  Toposens GmbH was founded in Munich in 2015 and is made up of experts in embedded systems, hardware development, 3D sensing, digital signal processing and machine vision. Together, they have successfully developed the worlds-first 3D Ultrasonic Sensor based on the principle of bionic, mimicking the echolocation techniques of a bat, to deliver robust, low-cost and precise near-range 3D data points. Unlike existing sensor technologies, which can be negatively impacted by light conditions, reflections, and weather, Toposens created a system using real-time 3D data mapping and object recognition software to guide autonomous systems such as AGVs, even in the most difficult environments. Clients of Toposens include some of the world’s leading companies in robotics and automotive. The company is an active accelerator in the development of safety-critical autonomy and is based in Munich, Germany with presence in Sunnyvale, California.
+  Press Contact
+Maria Degmair
+Senior Marketing Manager
+Mobile | +49 163 7411480
+Office GER | +49 89 23751540
+Office US | +1 669 206 2139
+Mail | degmair@toposens.com
+PREVIOUS
+Toposens launches new Toposens Processing Unit DK for 3D Collision Avoidance
+NEXT
+Launch of world’s first industrial grade 3D Ultrasonic Echolocation Sensor ECHO ONE®
+Share This Post
+Manufacturers of the world’s first and only 3D Ultrasonic Sensing Technology for advanced 3D Collision Avoidance, based on the bionic principle of echolocation and integrable as well as retrofittable in a wide variety of applications within the robotics and automotive industry.
+Menu
+Products
+Technology
+Applications
+Company
+Downloads
+German Office (Headquarter)
+Toposens GmbH
+Lyonel-Feininger-Str. 28
+80807 Munich
+Germany
++49 89 2375 1540
+US Office
+Toposens
+c/o German Accelerator Inc.
+1250 Borregas Ave,
+Sunnyvale, CA 94089
++1 669 206 2139
+Follow Us
+This website is part of a project that has received funding by the European Union’s Horizon 2020 research and innovation programme under grant agreement number 953716.
+© Copyright 2021 TOPOSENS. All Rights Reserved.
+Career
+Contact
+Privacy Policy
+Cookies

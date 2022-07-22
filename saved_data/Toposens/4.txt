@@ -1,0 +1,39 @@
+https://cookiedatabase.org/tcf/purposes
+ Home
+About Cookiedatabase.org
+Contact
+Understanding Tracking With Cookiedatabase.Org
+TCF: Purposes
+This is an overview of all used purposes by Vendors, configured by Complianz.io TCF CMP.
+Purpose name Read more
+Apply market research to generate audience insights Read more
+Create a personalized ads profile Read more
+Measure ad performance Read more
+Develop and improve products Read more
+Measure content performance Read more
+Select basic ads Read more
+Select personalized ads Read more
+Select personalized content Read more
+Store and/or access information on a device Read more
+What is TCF?
+As defined by IAB Europe
+Purposes
+An overview of used purposed in TCF
+Legal Bases
+What are they?
+Complianz.io
+TCF CMP for WordPress with Cookiedatabase.org
+Popular Services
+Google Analytics
+Facebook
+YouTube
+Mixpanel
+About
+How we categorize cookies
+First, second or third party
+How to remove my data
+Legal
+Downloads for Wordpress
+Complianz Privacy Suite
+Really Simple SSL
+Powered By

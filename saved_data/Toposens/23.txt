@@ -1,0 +1,80 @@
+https://toposens.com/2022/07/19/launch-of-worlds-first-industrial-grade-3d-ultrasonic-collision-avoidance-sensor
+ We use cookies to optimize our website and service.
+Accept
+Functional Cookies Only
+Preferences
+Cookie Guideline
+Privacy Policy
+Privacy Policy
+Products
+Technology
+Applications
+Company
+Downloads
+CONTACT US
+July 19, 2022
+LAUNCH OF WORLD’S FIRST INDUSTRIAL GRADE 3D ULTRASONIC ECHOLOCATION SENSOR ECHO ONE®
+Written by
+Munich-based high-tech startup Toposens is releasing its
+3D Ultrasonic Echolocation Sensor ECHO ONE®
+    Munich, 20/07/2022. The Munich based high-tech startup Toposens is announcing the market launch of its first commercial Toposens 3D COLLISION AVOIDANCE SYSTEM for mobile robots based on the proprietary Toposens 3D ultrasonic echolocation technology. This represents a key milestone for the company following more than seven years of R&D and product commercialization.
+Addressing the unmet need for higher safety of mobile robots in industrial settings, the Toposens 3D Ultrasonic Echolocation Sensor ECHO ONE® and Toposens PROCESSING UNIT with sophisticated filters for 3D collision avoidance is now available, having been run through rigorous commercial testing in real-life industrial scenarios with reputable mobile robotic companies. This kind of “co-developing” of a high-tech product together with leading tech firms ensures highest levels of performance for the commencing serial deployment.
+  Detecting the Undetectable
+
+With the autonomous vehicle industry booming and mobile robots, such as automated forklifts, AMRs and AGVs, experiencing exponential growth levels, the safety of humans and machines is kept at the forefront of manufacturing efforts. The market has come to realize that 3D collision avoidance is a necessity, since the obligatory 2D safety LiDARs can only deliver two-dimensional data output not matching highest safety needs.
+Due to their physical properties, other 3D Sensor systems, such as LiDAR or camera have limitations in their perception capabilities when for example the optical conditions in their environment are unfavorable or objects like forklift forks are close to the floor. As a result, they struggle to detect objects well enough, making them an unreliable and insufficient collision avoidance solution. In fact, the leading cause of industrial accidents in 2022 has been identified as blocked vision, and the associated costs are forecast to amount to over 2,5 Bn $ by 2025 in over 50.000 factories being equipped with mobile robots. Also, the traditional one-dimensional ultrasonic sensor does not deliver the needed data for reliable 3D collision avoidance, as it can only measure simple distance data (= time-of-flight), compared to the 3D point cloud the Toposens 3D COLLISION AVOIDANCE SYSTEM is able to generate.
+  Toposens 3D Collision Avoidance System illustrated: Detection of forklift forks in warning zone and stopping zone
+  Re-defining robotic safety
+
+Trying to find a way to compensate these shortcomings and provide the market with a best-in-class 3D collision avoidance, Toposens has over the past few years been working towards a commercial version of its
+3D Ultrasonic Echolocation Sensor to serve the need for a reliable mobile robot 3D collision avoidance.
+Based on the principle of echolocation as seen in bats, Toposens ECHO ONE® compensates the drawbacks of optical sensors through sound-based triangulation in combination with sophisticated noise-filtering software. This in turn delivers robust 3D data output in real-time for each obstacle detected within the fully adjustable warning- and stopping zones. What’s more, the zones can both be set to dynamically follow a mobile robot taking a left- or right turn and adjust to the speed of the vehicle.
+The sensor sends the obtained data (echo reflections perceived by three microphones) in a 3D point cloud format to the Toposens PROCESSING UNIT which is equipped with an easy-to-configure advanced 3D collision avoidance software.
+From there, depending on which 3D zone violations are detected, the Toposens PROCESSING UNIT triggers either a “slow down” or “stop” command to the mobile robot’s CPU. When no zone violations are detected, the mobile robot drives on.
+Toposens 3D Collision Avoidance with 3D Field-of-View including Warning Zone (yellow) and Stopping Zone (red)
+  Bat vision versus bad vision
+
+“Being able to detect multiple difficult-to-detect obstacles reliably and in real-time, regardless of environmental conditions, enables us to provide next-level robotic safety for our customers. Our technology addresses the shortcomings of optical sensors, such as LiDARs, which can fail to detect floor-based objects like forklift forks on the floor, in unfavorable lighting conditions or transparent or mirrored object surfaces. Receiving data output in 3D, meaning in x, y, and z coordinates, guarantees the most reliable level of 3D collision avoidance”, says Tobias Bahnemann→, CEO and Co-Founder of Toposens and continues:
+“Ahead of production, we have been co-developing and testing our Toposens ECHO ONE® in pilot projects and actual real-life set-ups with renowned companies for almost two years. This has put us in a position, from which we can now offer our customers a state-of-the-art, next-level robotic safety system. With 3D collision avoidance capabilities missing in existing sensor solutions, the economic setback of damaged goods, or even expensive production stops as a consequence of undetected obstacles, can considerably limit the ROI of any mobile robot system. This highlights the necessity for mobile robots to “see” their environment using a different kind of vision technology – we call it “BAT VISION” and are delighted to now be moving on to serial production.” 
+  Toposens is now taking orders for its first commercial version of its 3D ultrasonic collision avoidance technology with the all-new Toposens ECHO ONE®.
+  If you want to place an order or send an inquiry, then do not hesitate to contact us via our website or send an Email to info@toposens.com.
+If you want to find out more about this industrial breakthrough and its unique capabilities, visit the company website on toposens.com/
+______________________________
+  About Toposens
+  Toposens GmbH was founded in Munich in 2015 and is made up of experts in embedded systems, hardware development, 3D sensing, digital signal processing and machine vision. Together, they have successfully developed the worlds-first 3D Ultrasonic Sensor based on the principle of bionic, mimicking the echolocation techniques of a bat, to deliver robust, low-cost and precise near-range 3D data points. Unlike existing sensor technologies, which can be negatively impacted by light conditions, reflections, and weather, Toposens created a system using real-time 3D data mapping and object recognition software to guide autonomous systems such as AGVs, even in the most difficult environments. Clients of Toposens include some of the world’s leading companies in robotics and automotive. The company is an active accelerator in the development of safety-critical autonomy and is based in Munich, Germany with presence in Sunnyvale, California.
+  Press Contact
+Maria Degmair→
+Senior Marketing Manager
+Mobile | +49 163 7411480
+Office GER | +49 89 23751540
+Office US | +1 669 206 2139
+Mail | degmair@toposens.com
+  PREVIOUS
+Meet us at LogiMAT 2022
+Share This Post
+Manufacturers of the world’s first and only 3D Ultrasonic Sensing Technology for advanced 3D Collision Avoidance, based on the bionic principle of echolocation and integrable as well as retrofittable in a wide variety of applications within the robotics and automotive industry.
+Menu
+Products
+Technology
+Applications
+Company
+Downloads
+German Office (Headquarter)
+Toposens GmbH
+Lyonel-Feininger-Str. 28
+80807 Munich
+Germany
++49 89 2375 1540
+US Office
+Toposens
+c/o German Accelerator Inc.
+1250 Borregas Ave,
+Sunnyvale, CA 94089
++1 669 206 2139
+Follow Us
+This website is part of a project that has received funding by the European Union’s Horizon 2020 research and innovation programme under grant agreement number 953716.
+© Copyright 2021 TOPOSENS. All Rights Reserved.
+Career
+Contact
+Privacy Policy
+Cookies

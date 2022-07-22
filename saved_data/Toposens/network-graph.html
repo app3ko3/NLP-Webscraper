@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100vw;
+            height: 100vh;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "https://toposens.com", "label": "https://toposens.com", "shape": "dot", "size": 10}, {"id": "https://toposens.com/cookie-richtlinie-eu/#cmplz-manage-consent-container", "label": "https://toposens.com/cookie-richtlinie-eu/#cmplz-manage-consent-container", "shape": "dot", "size": 10}, {"id": "https://toposens.com/cookie-richtlinie-eu/#cmplz-cookies-overview", "label": "https://toposens.com/cookie-richtlinie-eu/#cmplz-cookies-overview", "shape": "dot", "size": 10}, {"id": "https://toposens.com/cookie-richtlinie-eu/#cmplz-tcf-wrapper", "label": "https://toposens.com/cookie-richtlinie-eu/#cmplz-tcf-wrapper", "shape": "dot", "size": 10}, {"id": "https://cookiedatabase.org/tcf/purposes", "label": "https://cookiedatabase.org/tcf/purposes", "shape": "dot", "size": 10}, {"id": "https://toposens.com/echo-one", "label": "https://toposens.com/echo-one", "shape": "dot", "size": 10}, {"id": "https://toposens.com/toposens-processing-unit", "label": "https://toposens.com/toposens-processing-unit", "shape": "dot", "size": 10}, {"id": "https://toposens.com/ultrasonic-3d-echolocation-sensor", "label": "https://toposens.com/ultrasonic-3d-echolocation-sensor", "shape": "dot", "size": 10}, {"id": "https://toposens.com/applications-3d-ultrasonic-sensor", "label": "https://toposens.com/applications-3d-ultrasonic-sensor", "shape": "dot", "size": 10}, {"id": "https://toposens.com/agv-collision-avoidance", "label": "https://toposens.com/agv-collision-avoidance", "shape": "dot", "size": 10}, {"id": "https://toposens.com/autonomous-parking", "label": "https://toposens.com/autonomous-parking", "shape": "dot", "size": 10}, {"id": "https://toposens.com/passenger-detection", "label": "https://toposens.com/passenger-detection", "shape": "dot", "size": 10}, {"id": "https://toposens.com/presence-detection-system", "label": "https://toposens.com/presence-detection-system", "shape": "dot", "size": 10}, {"id": "https://toposens.com/about-us-toposens", "label": "https://toposens.com/about-us-toposens", "shape": "dot", "size": 10}, {"id": "https://toposens.com/news-3d-ultrasonic-sensor", "label": "https://toposens.com/news-3d-ultrasonic-sensor", "shape": "dot", "size": 10}, {"id": "https://toposens.com/blogs", "label": "https://toposens.com/blogs", "shape": "dot", "size": 10}, {"id": "https://toposens.com/partners", "label": "https://toposens.com/partners", "shape": "dot", "size": 10}, {"id": "https://toposens.com/members", "label": "https://toposens.com/members", "shape": "dot", "size": 10}, {"id": "https://toposens.com/beacon-based-3d-tracking-system", "label": "https://toposens.com/beacon-based-3d-tracking-system", "shape": "dot", "size": 10}, {"id": "https://toposens.com/wp-content/uploads/2021/10/Range_Finding_Sensor_Compendium_10_2021_MD.pdf", "label": "https://toposens.com/wp-content/uploads/2021/10/Range_Finding_Sensor_Compendium_10_2021_MD.pdf", "shape": "dot", "size": 10}, {"id": "https://toposens.com/2022/07/19/launch-of-worlds-first-industrial-grade-3d-ultrasonic-collision-avoidance-sensor", "label": "https://toposens.com/2022/07/19/launch-of-worlds-first-industrial-grade-3d-ultrasonic-collision-avoidance-sensor", "shape": "dot", "size": 10}, {"id": "https://toposens.com/2022/05/27/meet-us-at-logimat-2022", "label": "https://toposens.com/2022/05/27/meet-us-at-logimat-2022", "shape": "dot", "size": 10}, {"id": "https://toposens.com/2022/04/04/toposens-launches-collision-avoidance-unit-dk", "label": "https://toposens.com/2022/04/04/toposens-launches-collision-avoidance-unit-dk", "shape": "dot", "size": 10}, {"id": "https://toposens.com/technology", "label": "https://toposens.com/technology", "shape": "dot", "size": 10}, {"id": "https://www.xing.com/pages/toposens-gmbh", "label": "https://www.xing.com/pages/toposens-gmbh", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/cookie-richtlinie-eu/#cmplz-manage-consent-container", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/cookie-richtlinie-eu/#cmplz-cookies-overview", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/cookie-richtlinie-eu/#cmplz-tcf-wrapper", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://cookiedatabase.org/tcf/purposes", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/echo-one", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/toposens-processing-unit", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/ultrasonic-3d-echolocation-sensor", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/applications-3d-ultrasonic-sensor", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/agv-collision-avoidance", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/autonomous-parking", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/passenger-detection", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/presence-detection-system", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/about-us-toposens", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/news-3d-ultrasonic-sensor", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/blogs", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/partners", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/members", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/beacon-based-3d-tracking-system", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/wp-content/uploads/2021/10/Range_Finding_Sensor_Compendium_10_2021_MD.pdf", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/2022/07/19/launch-of-worlds-first-industrial-grade-3d-ultrasonic-collision-avoidance-sensor", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/2022/05/27/meet-us-at-logimat-2022", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/2022/04/04/toposens-launches-collision-avoidance-unit-dk", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://toposens.com/technology", "weight": 1}, {"from": "https://toposens.com", "label": 1, "to": "https://www.xing.com/pages/toposens-gmbh", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

@@ -7,16 +7,20 @@ import pytesseract
 import requests
 
 
-#pytesseract.pytesseract.tesseract_cmd = r'C:\Users\Wei Kang\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+pytesseract_loaded = False
+
 with open('companycrawler/json/functions-config.json', 'r') as f:
     jsonData = json.load(f)
-    pytesseract.pytesseract.tesseract_cmd = jsonData['pytesseract-path']
+    if jsonData['pytesseract-path']:
+        pytesseract.pytesseract.tesseract_cmd = jsonData['pytesseract-path']
+        pytesseract_loaded = True
     headers = jsonData['user-agent-header']
 
 def img_to_text(path):
     img = Image.open(path)
-    
-    return pytesseract.image_to_string(img, lang='eng')
+    if pytesseract_loaded:
+        return pytesseract.image_to_string(img, lang='eng')
+    return ""
 
 def gen_path(ext=''):
     path = str(random.random())[2:] + ext
@@ -28,7 +32,6 @@ def gen_path(ext=''):
 
 def download_url(url, save_path):
     try:
-        print(headers)
         r = requests.get(url, verify=False, headers=headers)
         
         with open(save_path, 'wb') as g:

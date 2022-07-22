@@ -1,0 +1,68 @@
+https://toposens.com/2022/04/04/toposens-launches-collision-avoidance-unit-dk
+ We use cookies to optimize our website and service.
+Accept
+Functional Cookies Only
+Preferences
+Cookie Guideline
+Privacy Policy
+Privacy Policy
+Products
+Technology
+Applications
+Company
+Downloads
+CONTACT US
+April 4, 2022
+TOPOSENS LAUNCHES NEW TOPOSENS PROCESSING UNIT DK FOR 3D COLLISION AVOIDANCE
+Written by
+The Munich-based high-tech startup releases its plug and play solution Toposens Processing Unit DK as a gateway between Toposens 3D Ultrasonic Sensors and customer applications.
+  Munich, 04/04/2022. The Toposens Processing Unit DK (TPU DK) makes it even easier to integrate the Toposens ultrasonic sensing technology into a customer’s existing platform to evaluate 3D collision avoidance: It interconnects the Toposens 3D Ultrasonic Echolocation Sensor “ECHO ONE DK” to an AGV or AMR infrastructure, enabling AGVs and AMRs to avoid collisions with all kinds of obstacles.
+The TPU DK features advanced data processing algorithms which are used to communicate to an AGV’s or AMR’s control system via standardized outputs, whether an obstacle violates the user-configurable warning and stop zones.
+This takes away the hassle of complicated integration procedures. The user-friendly graphical user interface (GUI) visualizes the adjustable 3D warning zones and stop zones, which are configurable to suit different use cases.
+Individual sensor parameters can also be adjusted in the GUI together with the sensor vehicle positioning.
+Alternatively the sensor also offers a “fusion mode”, where the TPU DK delivers pre-filtered point cloud data to another processing device via ethernet.
+Toposens Processing Unit DK
+“The combination of Toposens ECHO ONE DK and Toposens Processing Unit DK provides our customers with an unprecedented 3D Ultrasonic Collision Avoidance for AGVs and AMRs. By detecting even the most complex objects in 3D space with a small blind zone, customers are able to reduce costly accidents while ensuring highest safety in any industrial environment”, says Alexander Rudoy, CTO and Co-Founder of Toposens GmbH.
+The TPU DK offers multiple communication interfaces for flexible deployment, provides a user-friendly GUI and operates on a very low power consumption of less than five watts. Further information can be obtained on the TPU DK landing page.
+  If you would like to purchase the Toposens Processing Unit DK or for any other inquiries, visit the company website on https://toposens.com/contact/ or send an Email via info@toposens.com.
+______________________________
+About Toposens
+  Toposens GmbH was founded in Munich in 2015 and is made up of experts in embedded systems, hardware development, 3D sensing, digital signal processing and machine vision. Together, they have successfully developed the worlds-first 3D Ultrasonic Sensor based on the principle of bionic, mimicking the echolocation techniques of a bat, to deliver robust, low-cost and precise near-range 3D data points. Unlike existing sensor technologies, which can be negatively impacted by light conditions, reflections, and weather, Toposens created a system using real-time 3D data mapping and object recognition software to guide autonomous systems such as AGVs, even in the most difficult environments. Clients of Toposens include some of the world’s leading companies in robotics and automotive. The company is an active accelerator in the development of safety-critical autonomy and is based in Munich, Germany with presence in Sunnyvale, California.
+  Press Contact
+Maria Degmair
+Marketing Manager
+Mobile | +49 163 7411480
+Office GER | +49 89 23751540
+Office US | +1 669 206 2139
+Mail | degmair@toposens.com
+PREVIOUS
+Toposens secures Series Pre-A Funding
+NEXT
+Meet us at LogiMAT 2022
+Share This Post
+Manufacturers of the world’s first and only 3D Ultrasonic Sensing Technology for advanced 3D Collision Avoidance, based on the bionic principle of echolocation and integrable as well as retrofittable in a wide variety of applications within the robotics and automotive industry.
+Menu
+Products
+Technology
+Applications
+Company
+Downloads
+German Office (Headquarter)
+Toposens GmbH
+Lyonel-Feininger-Str. 28
+80807 Munich
+Germany
++49 89 2375 1540
+US Office
+Toposens
+c/o German Accelerator Inc.
+1250 Borregas Ave,
+Sunnyvale, CA 94089
++1 669 206 2139
+Follow Us
+This website is part of a project that has received funding by the European Union’s Horizon 2020 research and innovation programme under grant agreement number 953716.
+© Copyright 2021 TOPOSENS. All Rights Reserved.
+Career
+Contact
+Privacy Policy
+Cookies

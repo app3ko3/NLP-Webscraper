@@ -1,0 +1,133 @@
+https://toposens.com/echo-one
+ We use cookies to optimize our website and service.
+Accept
+Functional Cookies Only
+Preferences
+Cookie Guideline
+Privacy Policy
+Privacy Policy
+Products
+Technology
+Applications
+Company
+Downloads
+CONTACT US
+ECHO ONE®
+Toposens Next-Generation 3D Ultrasonic Sensing Technology
+
+ROS
+Package
+from 10 mm
+Operating Range
+~20Hz
+Frame Rate
+up to 160°
+Opening Angle
+IP67
+Certified
+CAN
+Communication Interface
+Detecting the Undetectable
+The 3D Echolocation Sensor ECHO ONE® enables your mobile robot to reliably detect even the most complex objects in three-dimensional space, such as forklift forks, floor-based objects, and even glass. With a small blind zone, ultra-wide opening angle, and detection range of up to 3 m, you can reduce costly accidents whilst ensuring highest safety in any environment.
+Based on our proprietary 3D ultrasonic technology, Toposens ultrasonic sensors use Time-of-Flight echolocation data for detection in three-dimensional space, filtered by the Toposens Processing Unit for 3D collision avoidance, offering you Next-Level Robotic Safety.
+
+ECHO ONE®
+Toposens Processing Unit
+3D Collision Avoidance
+Watch the below YouTube video to find out how the Toposens 3D Ultrasonic Echolocation Sensor ECHO ONE® and the Toposens Processing Unit are working together to provide your robot with next-level robotic safety.
+
+
+1. Improve your overall operational efficiency
+Is your AGV or similar robot not performing to the highest standards because the implemented sensor technology can only detect the nearest object?
+
+READ MORE
+2. Ease the hassle of set-up and integration
+Are you tired of tedious integration procedures?
+
+READ MORE 
+3. Reduce costly accidents by detecting even the most complex objects in 3D space
+Is your AGV accident and deadlock prone because its existing sensor system struggles to detect transparent or complex objects such as forklift forks, or even small objects lying in the path of the AGV?
+
+READ MORE
+4. Use your AGV safely in any environment
+Does your AGV perform in-efficiently in the external environment due to dirt, dust, bad weather - or bad lighting conditions?
+
+READ MORE
+5. Safe costs by using just one sensor with enhanced perception abilities
+Do you find that you have to integrate several sensors to be able to cover a large enough detection area, adding to your surplus costs? 
+
+READ MORE
+
+6. Improve AGV operational performance with a reduced blind zone
+Does your mobile robot struggle to detect objects in ultra-close range within its immediate environment?
+
+READ MORE
+
+
+
+
+
+
+ECHO ONE Development Kit
+Technical Specifications – Overview:
+CAN
+Communication Interface
+from 200 mm
+Operating Range
+~20Hz
+Frame Rate
+up to 180°
+Opening Angle
+IP67
+Certified
+ROS
+Package
+Toposens Processing Unit Development Kit
+Technical Specifications – Overview:
+ETHERNET
+Communication Interface
+6x
+Digital Inputs
+3 x NO Contacts
+Relays Outputs
+< 5 W
+Low Power Consumption
+9 - 30 V
+Wide Voltage Range
+User-friendly GUI
+Configuration Interface
+Our development kit platform gives you great flexibility to evaluate our sensor in your individual application:
+CAN as a communication interface
+A separate Interface Adapter (USB adapter + Micro USB Cable) to connect the ECHO ONE DK to your PC.
+Toposens 3D Visualizer for raw data visualization and capturing via Interface Adapter.
+
+ROS Implementation Package.
+Toposens Sensor Library for convenient implementation of the ECHO ONE DK sensor into customer projects.
+
+Firmware Update Tool via Interface Adapter to update the ECHO ONE DK’s firmware.
+Manufacturers of the world’s first and only 3D Ultrasonic Sensing Technology for advanced 3D Collision Avoidance, based on the bionic principle of echolocation and integrable as well as retrofittable in a wide variety of applications within the robotics and automotive industry.
+Menu
+Products
+Technology
+Applications
+Company
+Downloads
+German Office (Headquarter)
+Toposens GmbH
+Lyonel-Feininger-Str. 28
+80807 Munich
+Germany
++49 89 2375 1540
+US Office
+Toposens
+c/o German Accelerator Inc.
+1250 Borregas Ave,
+Sunnyvale, CA 94089
++1 669 206 2139
+Follow Us
+This website is part of a project that has received funding by the European Union’s Horizon 2020 research and innovation programme under grant agreement number 953716.
+© Copyright 2021 TOPOSENS. All Rights Reserved.
+Career
+Contact
+Privacy Policy
+Cookies

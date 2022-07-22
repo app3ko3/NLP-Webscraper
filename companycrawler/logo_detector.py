@@ -14,10 +14,8 @@ class LogoDetector():
     def prepare_img(self, src):
         ext = find_ext(src)
         path = gen_path(ext)
-        print(path)
         if not download_url(src, path):
             return [], ''            
-
         try:
             img = Image.open(path)
         except:

@@ -1,0 +1,112 @@
+https://toposens.com/toposens-processing-unit
+ We use cookies to optimize our website and service.
+Accept
+Functional Cookies Only
+Preferences
+Cookie Guideline
+Privacy Policy
+Privacy Policy
+Products
+Technology
+Applications
+Company
+Downloads
+CONTACT US
+TOPOSENS PROCESSING UNIT
+Ethernet or Digital I/Os
+Communication Interface
+4x
+Digital Inputs and Digital Outputs
+-40° to 80°
+Ambient Temperature Range in Celsius
+4 W
+Low Power Consumption
+8 - 36 V
+Wide Voltage Range
+User-friendly GUI
+Configuration Interface
+Advanced 3D Collision Avoidance Functionality
+Plug & Play Hardware with Different Interfaces
+Easy-to-use Software for Application Setup
+
+ECHO ONE®
+Toposens Processing Unit
+3D Collision Avoidance
+3D Collision Avoidance
+Stand Alone
+3D Collision Avoidance
+Sensor Fusion
+In stand alone mode, the sensor system signals zone
+violations via digital IOs or Ethernet
+In sensor fusion mode, the pre-processed point cloud can be
+accessed via ethernet.
+
+
+
+
+
+
+
+ECHO ONE Development Kit
+Technical Specifications – Overview:
+CAN
+Communication Interface
+from 200 mm
+Operating Range
+~20Hz
+Frame Rate
+up to 180°
+Opening Angle
+IP67
+Certified
+ROS
+Package
+Toposens Processing Unit Development Kit
+Technical Specifications – Overview:
+ETHERNET
+Communication Interface
+6x
+Digital Inputs
+3 x NO Contacts
+Relays Outputs
+< 5 W
+Low Power Consumption
+9 - 30 V
+Wide Voltage Range
+User-friendly GUI
+Configuration Interface
+Our development kit platform gives you great flexibility to evaluate our sensor in your individual application:
+CAN as a communication interface
+A separate Interface Adapter (USB adapter + Micro USB Cable) to connect the ECHO ONE DK to your PC.
+Toposens 3D Visualizer for raw data visualization and capturing via Interface Adapter.
+
+ROS Implementation Package.
+Toposens Sensor Library for convenient implementation of the ECHO ONE DK sensor into customer projects.
+
+Firmware Update Tool via Interface Adapter to update the ECHO ONE DK’s firmware.
+Manufacturers of the world’s first and only 3D Ultrasonic Sensing Technology for advanced 3D Collision Avoidance, based on the bionic principle of echolocation and integrable as well as retrofittable in a wide variety of applications within the robotics and automotive industry.
+Menu
+Products
+Technology
+Applications
+Company
+Downloads
+German Office (Headquarter)
+Toposens GmbH
+Lyonel-Feininger-Str. 28
+80807 Munich
+Germany
++49 89 2375 1540
+US Office
+Toposens
+c/o German Accelerator Inc.
+1250 Borregas Ave,
+Sunnyvale, CA 94089
++1 669 206 2139
+Follow Us
+This website is part of a project that has received funding by the European Union’s Horizon 2020 research and innovation programme under grant agreement number 953716.
+© Copyright 2021 TOPOSENS. All Rights Reserved.
+Career
+Contact
+Privacy Policy
+Cookies
