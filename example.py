@@ -14,7 +14,7 @@ client_output_path = 'clients.csv' # create client csv here
 +--------------+
 '''
 
-#CC = CompanyCrawler(save_webtree=False, save_network_graph=True)
+CC = CompanyCrawler(save_webtree=False, save_network_graph=True)
 
 def scrape_excel(companies):
     # load excel data from 'companies-software.xlsx'
@@ -39,7 +39,7 @@ def scrape_single(company, url):
         max_depth=max_depth
     )
 
-scrape_single('Intermodalics', 'https://www.intermodalics.eu/')
+scrape_single('ViewAR', 'https://www.viewar.com/')
 #scrape_excel('companies-software.xlsx')
 
 '''
@@ -72,4 +72,4 @@ def extract_clients(data_path, companies):
     client_df = pd.DataFrame(results)
     client_df.to_csv(client_output_path, index=False, encoding='utf-8-sig')
 
-extract_clients(data_path, ['Intermodalics'])
+#extract_clients(data_path, ['Intermodalics'])

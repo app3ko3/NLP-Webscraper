@@ -2,5 +2,5 @@
 	"user-agent-header": {
 		"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36"
 	},
-	"pytesseract-path": "C:/Program Files/Tesseract-OCR/tesseract.exe"
+	"pytesseract-path": "C:/Users/7025758/AppData/Local/Tesseract-OCR"
 }
